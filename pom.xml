@@ -45,7 +45,7 @@
                 <configuration>
                     <failOnMissingWebXml>false</failOnMissingWebXml>
                     <outputDirectory>target</outputDirectory>
-              		  <warName>test-web</warName>
+              		  <warName>ROOT</warName>
                 </configuration>
             </plugin>
 		</plugins>
