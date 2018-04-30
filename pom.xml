@@ -4,7 +4,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.bnc.test</groupId>
-    <artifactId>test-gs-actuator-service</artifactId>
+    <artifactId>test-web</artifactId>
     <version>0.1.0</version>
 
     <parent>
